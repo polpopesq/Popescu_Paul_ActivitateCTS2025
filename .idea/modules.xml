@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/Abstract Factory/Abstract Factory.iml" filepath="$PROJECT_DIR$/extra/creational - t1/Abstract Factory/Abstract Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/Builder/Builder.iml" filepath="$PROJECT_DIR$/extra/creational - t1/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/Factory Method/Factory Method.iml" filepath="$PROJECT_DIR$/extra/creational - t1/Factory Method/Factory Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Popescu_Paul_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Popescu_Paul_ActivitateCTS2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/extra/creational - t1/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/extra/creational - t1/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/creational - t1.iml" filepath="$PROJECT_DIR$/extra/creational - t1/creational - t1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/extra.iml" filepath="$PROJECT_DIR$/extra/extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s3 - Singleton/s3 - Singleton.iml" filepath="$PROJECT_DIR$/s3 - Singleton/s3 - Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s4 - Factory, Prototype/s4 - Factory, Prototype.iml" filepath="$PROJECT_DIR$/s4 - Factory, Prototype/s4 - Factory, Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s6 - Adapter/s6 - Adapter.iml" filepath="$PROJECT_DIR$/s6 - Adapter/s6 - Adapter.iml" />
+    </modules>
+  </component>
+</project>

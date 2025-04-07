@@ -1,0 +1,7 @@
+O aplicație SaaS gestionează conexiuni către mai multe baze de date ale clienților (client1, client2, client3).
+Pentru fiecare client trebuie o singură instanță a conexiunii.
+
+De ce registry?
+
+Fiecare client are propria conexiune unică.
+Nu trebuie să scrii un singleton pentru fiecare – le gestionezi centralizat.

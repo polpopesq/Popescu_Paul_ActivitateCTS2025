@@ -1,0 +1,6 @@
+Intr-o aplicatie, conexiunea la baza de date este necesara doar cand utilizatorul apasa pe "Genereaza raport"
+
+De ce lazy?
+
+Evităm deschiderea inutilă a conexiunii.
+Aplicația poate funcționa și fără baza de date pentru alte funcții.

@@ -1,0 +1,5 @@
+Aplicatie care creaza conexiunea cu baza de date centrala la pornire pentru a accesa date critice
+
+De ce Eager?
+Datele sunt critice și sigur vor fi folosite.
+Pornirea conexiunii de la început ajută la performanță.
