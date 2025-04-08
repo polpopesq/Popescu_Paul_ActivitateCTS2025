@@ -1,17 +1,18 @@
-import classes.AgentieFactory;
-import classes.PachetTransport;
-import classes.PachetTuristic;
-import classes.TipPachet;
+import classes.factories.FurnitureFactory;
+import classes.factories.ModernFurnitureFactory;
 
 public class Main {
     public static void main(String[] args) {
-        PachetTuristic pachetCazare = AgentieFactory.createPackage(TipPachet.CAZARE, 0);
-        PachetTransport pachetTransport = (PachetTransport) AgentieFactory.createPackage(TipPachet.TRANSPORT, 20);
+        FurnitureFactory factory = new ModernFurnitureFactory();
+        Shop modernFurnitureShop = new Shop(factory);
 
-        System.out.println(pachetCazare);
-        System.out.println(pachetTransport);
+        modernFurnitureShop.displayFurniture();
+        System.out.println();
 
-        pachetCazare.description();
-        pachetTransport.catiKm();
+        FurnitureFactory victorianFurnitureFactory = new ModernFurnitureFactory();
+        Shop victorianShop = new Shop(victorianFurnitureFactory);
+        victorianShop.displayFurniture();
     }
+    //the point here is to show that shop does not care of the style of the furniture
+    //it just knows the factory produces furniture but which style, that is specified in main
 }
