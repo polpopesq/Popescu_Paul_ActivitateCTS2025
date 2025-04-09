@@ -1,8 +1,13 @@
 package classes;
 
 //builder declares product construction steps that are common to all types of builders
+//https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern
 public abstract class BuildingBuilder<T extends BuildingBuilder<T>> {
     Building building;
+
+    protected BuildingBuilder(Building building) {
+        this.building = building;
+    }
 
     public T setName(String name) {
         building.name = name;

@@ -1,0 +1,5 @@
+Se dorește modelarea unui sistem pentru construcția diferitelor tipuri de clădiri, cum ar fi
+blocuri de apartamente, clădiri de birouri, zgârie-nori etc.
+Fiecare tip de clădire are caracteristici comune (nume, an construcție, număr de etaje),
+dar și caracteristici specifice (de exemplu: număr de locatari pentru blocuri de apartamente,
+număr de birouri pentru clădiri de birouri).

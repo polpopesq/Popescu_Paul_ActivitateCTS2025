@@ -4,7 +4,8 @@ public class CastleBuilder extends BuildingBuilder<CastleBuilder> {
     private Castle castle = new Castle();
 
     public CastleBuilder() {
-        castle = new Castle();
+        super(new Castle());
+        this.castle = (Castle) super.building;
     }
 
     public CastleBuilder setValue(int value) {
