@@ -1,0 +1,14 @@
+Context:
+Un angajat de la serviciul de relații cu clienții al magazinului ShopOnline primește un apel telefonic de la un client
+care vrea să plaseze o comandă.
+Pentru a procesa comanda, operatorul trebuie să efectueze manual următorii pași în aplicații diferite:
+
+-Verifică dacă produsul este pe stoc (folosind clasa InventoryService)
+-Creează comanda în sistem (folosind OrderService)
+-Creează clientul sau recuperează datele lui (prin CustomerService)
+-Procesează plata (prin PaymentService)
+-Trimite confirmarea prin email (prin NotificationService)
+
+Problema:
+Operatorul trebuie să folosească 5 interfețe diferite pentru a finaliza o singură comandă, ceea ce este ineficient,
+consumă timp și predispune la erori.

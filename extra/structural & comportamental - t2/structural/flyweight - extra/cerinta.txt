@@ -1,0 +1,10 @@
+Agenția de turism TravelPro oferă turiștilor posibilitatea de a rezerva activități opționale
+(precum tururi ghidate, drumeții, croaziere etc.) în cadrul pachetelor lor de vacanță.
+Multe dintre aceste activități sunt identice (ex: „Tur ghidat Barcelona”, „Croazieră în Santorini”)
+și se repetă în mai multe pachete turistice oferite de agenție.
+
+Aplicația trebuie să gestioneze mii de rezervări, fiecare având activități proprii.
+Pentru a economisi memorie, nu este eficient să se creeze o instanță nouă pentru fiecare activitate identică.
+
+Se dorește implementarea unui modul care să reutilizeze obiectele comune (activități turistice standard),
+și să stocheze doar datele unice la nivelul fiecărei rezervări (ex: data aleasă, numele clientului, numărul de participanți etc.).

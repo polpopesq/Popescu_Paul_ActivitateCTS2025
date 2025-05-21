@@ -11,17 +11,27 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Popescu_Paul_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Popescu_Paul_ActivitateCTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/extra/creational - t1/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/extra/creational - t1/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/adapter/adapter.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/comportamental/chain of responsibility/chain of responsibility.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/comportamental/chain of responsibility/chain of responsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10/composite/composite.iml" filepath="$PROJECT_DIR$/s10/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/composite - extra/composite - extra.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/composite - extra/composite - extra.iml" />
       <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/creational - t1.iml" filepath="$PROJECT_DIR$/extra/creational - t1/creational - t1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/decorator/decorator.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/decorator/decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/exercises/exercises.iml" filepath="$PROJECT_DIR$/extra/creational - t1/exercises/exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/extra/extra.iml" filepath="$PROJECT_DIR$/extra/extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/facade/facade.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/facade/facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10/flyweight/flyweight.iml" filepath="$PROJECT_DIR$/s10/flyweight/flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/flyweight - extra/flyweight - extra.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/flyweight - extra/flyweight - extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/comportamental/observer/observer.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/comportamental/observer/observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/extra/creational - t1/Builder/exercises/one/one.iml" filepath="$PROJECT_DIR$/extra/creational - t1/Builder/exercises/one/one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/proxy/proxy.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/structural/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10/s10.iml" filepath="$PROJECT_DIR$/s10/s10.iml" />
       <module fileurl="file://$PROJECT_DIR$/s3 - Singleton/s3 - Singleton.iml" filepath="$PROJECT_DIR$/s3 - Singleton/s3 - Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/s4 - Factory, Prototype/s4 - Factory, Prototype.iml" filepath="$PROJECT_DIR$/s4 - Factory, Prototype/s4 - Factory, Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/s6 - Adapter/s6 - Adapter.iml" filepath="$PROJECT_DIR$/s6 - Adapter/s6 - Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/comportamental/strategy/strategy.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/comportamental/strategy/strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/s10/template/template.iml" filepath="$PROJECT_DIR$/s10/template/template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra/structural &amp; comportamental - t2/comportamental/template method/template method.iml" filepath="$PROJECT_DIR$/extra/structural &amp; comportamental - t2/comportamental/template method/template method.iml" />
     </modules>
   </component>
 </project>

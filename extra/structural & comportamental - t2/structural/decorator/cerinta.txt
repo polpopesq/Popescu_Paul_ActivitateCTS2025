@@ -1,0 +1,10 @@
+Compania de transport aerian FlyEasy colaborează cu o agenție de turism pentru vânzarea de bilete de avion.
+În mod normal, clienții primesc doar biletul standard, fără asigurare pentru pierderea bagajului.
+Pentru o perioadă promoțională de 2 luni, clienții care rezervă prin agenție primesc gratuit o asigurare pentru bagaje.
+Biletul premium contine si prioritate la imbarcare, pe durata acestor 2 luni.
+
+Managerul agenției spune că:
+-După 2 luni oferta expiră.
+-Nu dorește modificarea claselor existente (pentru bilete, rezervări, etc.).
+
+Se cere o soluție temporară fără modificarea codului existent.

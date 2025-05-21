@@ -1,0 +1,11 @@
+Compania feroviară RailTour dorește să dezvolte o aplicație pentru rezervări de bilete de tren.
+În aplicație, utilizatorul poate alege destinația, clasa, facilitățile dorite (ex: WiFi, masă inclusă, loc la geam etc.).
+Pentru a oferi o experiență intuitivă, aplicația trebuie să aibă un meniu organizat ierarhic, astfel încât:
+fiecare categorie principală (ex: Tip Bilet, Facilități, Opțiuni Suplimentare) să poată conține:
+-fie subcategorii (ex: pentru Facilități → Tehnologie, Confort),
+-fie opțiuni finale (frunze) (ex: WiFi gratuit, Loc la geam etc.).
+
+Aplicația trebuie să permită parcurgerea întregii ierarhii de opțiuni într-un mod unificat,
+indiferent dacă elementul este o categorie sau o opțiune concretă.
+
+Să se implementeze un modul care să gestioneze această structură de meniu flexibilă și extensibilă.

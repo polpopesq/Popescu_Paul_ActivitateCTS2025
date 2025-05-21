@@ -1,0 +1,9 @@
+O companie de e-commerce numită ShopEase are o platformă proprie dezvoltată intern.
+Aceasta conține o clasă proprie numită InternalPaymentProcessor care este folosită pentru a procesa plăți.
+
+ShopEase dorește acum să integreze un nou serviciu de plată online de la un furnizor extern, de exemplu PayFast.
+Acesta oferă o bibliotecă proprie care nu poate fi modificată și care conține o clasă PayFastAPI
+
+Problema:
+Metoda pay(double amount) a platformei ShopEase nu poate interacționa direct cu metoda makeTransaction(float sumInLei)
+a clasei externe PayFastAPI, iar modificarea celor două clase nu este permisă (din motive de compatibilitate și licențiere).
