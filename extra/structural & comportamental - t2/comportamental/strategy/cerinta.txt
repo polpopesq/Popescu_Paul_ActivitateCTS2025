@@ -1,0 +1,9 @@
+Un magazin online oferă mai multe metode de livrare a produselor către clienți:
+-livrare standard (gratuită, în 3-5 zile)
+-livrare rapidă (cu cost suplimentar, în 1-2 zile)
+-livrare premium (cu livrare în aceeași zi, dar doar în anumite orașe)
+
+Pentru a estima timpul și costul de livrare, aplicația trebuie să simuleze opțiunea selectată de client.
+Magazinul dorește ca aceste metode să fie ușor de modificat și extins fără a modifica codul existent,
+deoarece vor apărea în curând și alte opțiuni (livrare locker, drone etc.).
+Să se implementeze modulul pentru estimarea livrărilor folosind un design pattern potrivit.

@@ -1,0 +1,10 @@
+Agenția de turism TourEx primește reclamații de la clienți.
+
+Operator Call Center – gestionează reclamațiile minore (ex: întârziere email, neprimire factură).
+Coordonator Relații Clienți – gestionează reclamații legate de pachete greșite, modificări de rezervări, lipsă ghid etc.
+Manager de Agenție – gestionează reclamațiile grave (ex: incidente în timpul călătoriei, hoteluri sub standard).
+Avocatul Agenției – gestionează reclamațiile care implică amenințări legale sau cereri de despăgubire.
+
+Cerință:
+Să se implementeze un modul flexibil care primește o reclamație de la client și o direcționează automat spre nivelul corespunzător din ierarhie.
+Dacă reclamația nu poate fi procesată de niciun angajat, aceasta este logată într-un fișier de “Reclamații nerezolvate”.
